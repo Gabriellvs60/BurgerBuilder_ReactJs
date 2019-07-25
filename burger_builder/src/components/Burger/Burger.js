@@ -1,4 +1,4 @@
-import React from 'react';//pois usamos JSX
+import React from 'react';
 
 import classes from './Burger.css';
 import BurgerIngredient from './BurgerIngredient/BurgerIngredient';
